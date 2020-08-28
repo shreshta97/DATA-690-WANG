@@ -1,5 +1,5 @@
 # Data 690 Class 1 Notes 20200828
-## Ways to Run python code:
+## Ways to Run Python Code:
 1. Use Interactive Python Shell (Interpreter)
 - Python.org
 2. Python Scripts through Command Line
@@ -9,7 +9,7 @@
 - Jupyter: (Julia, Python and R) 
 
 
-## Some basic python comands 
+## Some Basic Python Comands 
 1. REPL: Read, Execute, Print, Loop 
 2. Print comand: print ("Hello World") 
 3. ls= dir: list files
